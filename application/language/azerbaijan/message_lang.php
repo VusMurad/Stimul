@@ -1,0 +1,24 @@
+<?php
+// $lang['welcome_message'] = 'Welcome to CodexWorld';
+$lang['home']           = 'Home page';
+$lang['foreing']        = 'Xarici dil kursları';
+$lang['courses']        = 'Kurslar';
+$lang['psychology']     = 'Psixologiya';
+$lang['toefl']          = 'TOEFL, IELTS, SAT, GMAT';
+$lang['acca']           = 'ACCA, CIA, DipIFR, CFA';
+$lang['design']         = 'Dizayn kurları';
+$lang['computer']       = 'Komputer kursları';
+$lang['prepearing']     = 'Hazırlıq kursları';
+$lang['services']       = 'Xidmətlər';
+$lang['translate']      = 'Tərcümə';
+$lang['training']       = 'Təlim';
+$lang['study']          = 'Xaricdə təhsil';
+$lang['contact']        = 'Bizimlə əlaqə';
+$lang['abroffice']      = 'Xaricdə təhsil ofisi';
+$lang['kidsoffice']     = "Stimul kid's office";
+$lang['consoffice']     = 'Cosulting office';
+$lang['about']          = 'Haqqımızda';
+$lang['colleagues']     = 'Əməkdaşlar';
+$lang['customers']      = 'Müştərilər';
+$lang['register']       = 'Qeydiyyat';
+$lang['gallery']        = 'Qalereya';
